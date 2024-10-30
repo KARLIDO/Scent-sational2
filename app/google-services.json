@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597716052559",
+    "project_id": "xisd-5f5cd",
+    "storage_bucket": "xisd-5f5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597716052559:android:816e73ae7d1234e9c2583a",
+        "android_client_info": {
+          "package_name": "com.example.scentsational"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDATZ0JNGJ2-m4xV7EkABLrgmckfyg3CuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
